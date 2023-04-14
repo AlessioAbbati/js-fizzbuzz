@@ -14,6 +14,7 @@ body {
 h1 {
     color: white;
     text-align: center;
+    font-size: 5rem;
 }
 .grid {
     display: flex;
@@ -28,5 +29,5 @@ h1 {
     margin: 5px;    
     width: 4rem;
     height: 4rem;
-    background-color: blue;
+    background-color: #1389B2;
 }
